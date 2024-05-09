@@ -32,22 +32,20 @@ Create a directory named "MyLab" on the desktop.
 
 Change to the "MyLab" directory and create an empty text file named "MyFile.txt" inside it.
 
-
-## COMMAND AND OUTPUT
-
 List the contents of the "MyLab" directory.
 
-
-## COMMAND AND OUTPUT
-
 Copy "MyFile.txt" to a new folder named "Backup" on the desktop.
+![image](https://github.com/VisHinu24/Windows-basic-commands-batchscript/assets/144244396/da39c5f1-d586-46e3-a20c-a10e57f40ada)
+
 
 ## COMMAND AND OUTPUT
 
 Move the "MyLab" directory to the "Documents" folder.
 
+![image](https://github.com/VisHinu24/Windows-basic-commands-batchscript/assets/144244396/d8de34b0-3236-46b9-bfe6-d7c5c7282268)
 
 ## COMMAND AND OUTPUT
+![image](https://github.com/VisHinu24/Windows-basic-commands-batchscript/assets/144244396/498c8faf-0021-465c-a7b1-006f39bd30ef)
 
 
 ## Exercise 2: Advanced Batch Scripting
@@ -60,6 +58,7 @@ Create a batch script named "BackupScript.bat" that creates a backup of files wi
 
 
 ## OUTPUT
+![image](https://github.com/VisHinu24/Windows-basic-commands-batchscript/assets/144244396/82cf8311-ddb5-4794-a4f9-a18fa8d4d8db)
 
 
 
