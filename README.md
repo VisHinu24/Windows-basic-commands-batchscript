@@ -1,6 +1,7 @@
 # Windows-basic-commands-batchscript
 Ex08-Windows-basic-commands-batchscript
-
+## Name : H Vishinu 
+## Reg.No : 212223220124
 # AIM:
 To execute Windows basic commands and batch scripting
 
